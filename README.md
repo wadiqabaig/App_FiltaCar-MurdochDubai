@@ -1,8 +1,8 @@
 # FiltaCar
 
-![FiltaCar overview](FiltaCar.png)
+![FiltaCar Demo](promo.gif)
 
-<video src="https://raw.githubusercontent.com/wadiqabaig/App_FiltaCar-MurdochDubai/main/FiltaCar-promoVideo.mp4" controls="controls" width="100%"></video>
+![FiltaCar overview](FiltaCar.png)
 
 FiltaCar is an iPhone-style web app that helps a Dubai car-parts salvage seller turn messy inputs (label photos, inventory spreadsheets, donor-vehicle notes and Arabic yard notes) into honest eBay listing drafts for UK buyers.
 
