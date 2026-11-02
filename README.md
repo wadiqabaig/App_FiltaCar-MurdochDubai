@@ -1,6 +1,6 @@
 # FiltaCar
 
-![FiltaCar Demo](promo.gif)
+[Watch FiltaCar Demo Video](https://drive.google.com/file/d/1kN28YgyjZW2s-AVP5sVZiF_IYX8Vl-RC/view?usp=sharing)
 
 ![FiltaCar overview](FiltaCar.png)
 
